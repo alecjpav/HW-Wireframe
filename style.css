@@ -39,8 +39,9 @@ body {
 .article {
 	background-color: #777;
     width: 500px;
-    height: 190px;
+    height: 180px;
     padding: 10px;
+    margin-top: 30px;
     margin-left: 10px;
     color: #ebebeb;
     text-align: center;
